@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=EchoSixHIYA&label=Profile%20views&color=06b6d4&style=flat-square" alt="Profile views">
 </p>
 
-<h2>🇨🇳 关于我</h2>
+<h2>关于我 <em>· About Me</em></h2>
 
 <p>独立开发者、社畜、游戏玩家。</p>
 
@@ -27,9 +27,9 @@
 
 <p><strong>我在做什么：</strong>构建实用、有趣、带一点个人风格的软件；探索 Python、Java 和 PyTorch；在工作、代码、游戏和睡眠之间寻找平衡。</p>
 
-<hr>
+<p align="center">✦　✦　✦</p>
 
-<h2>🇬🇧 About Me</h2>
+<h2>英文简介 <em>· English</em></h2>
 
 <p>Indie developer, corporate worker, and gamer.</p>
 
