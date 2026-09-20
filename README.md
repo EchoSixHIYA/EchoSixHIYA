@@ -19,32 +19,23 @@
   <img src="https://komarev.com/ghpvc/?username=EchoSixHIYA&label=Profile%20views&color=06b6d4&style=flat-square" alt="Profile views">
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>中文</h2>
-      <p>独立开发者、社畜、游戏玩家。</p>
-      <p>正在从传统开发逐渐转型为 <strong>Vibe Coding</strong>，喜欢把想法快速变成可以运行的东西。</p>
-      <h3>我在做什么</h3>
-      <ul>
-        <li>构建实用、有趣、带一点个人风格的软件。</li>
-        <li>探索 Python、Java 和 PyTorch。</li>
-        <li>在工作、代码、游戏和睡眠之间寻找平衡。</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h2>English</h2>
-      <p>Indie developer, corporate worker, and gamer.</p>
-      <p>Currently moving toward <strong>Vibe Coding</strong> — turning ideas into working software as quickly as possible.</p>
-      <h3>What I do</h3>
-      <ul>
-        <li>Build useful, playful, and slightly personal software.</li>
-        <li>Explore Python, Java, and PyTorch.</li>
-        <li>Try to balance work, code, games, and sleep.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h2>🇨🇳 关于我</h2>
+
+<p>独立开发者、社畜、游戏玩家。</p>
+
+<p>正在从传统开发逐渐转型为 <strong>Vibe Coding</strong>，喜欢把想法快速变成可以运行的东西。</p>
+
+<p><strong>我在做什么：</strong>构建实用、有趣、带一点个人风格的软件；探索 Python、Java 和 PyTorch；在工作、代码、游戏和睡眠之间寻找平衡。</p>
+
+<hr>
+
+<h2>🇬🇧 About Me</h2>
+
+<p>Indie developer, corporate worker, and gamer.</p>
+
+<p>Currently moving toward <strong>Vibe Coding</strong> — turning ideas into working software as quickly as possible.</p>
+
+<p><strong>What I do:</strong> build useful, playful, and slightly personal software; explore Python, Java, and PyTorch; try to balance work, code, games, and sleep.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
