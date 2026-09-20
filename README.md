@@ -58,6 +58,8 @@
   <em><strong>WebSpeak:</strong> A self-hosted browser client and voice gateway for TeamSpeak 3 and TeamSpeak 6.</em>
 </div>
 
+<hr>
+
 <h3>🧪 SCI Research / SCI 研究</h3>
 
 <div>
