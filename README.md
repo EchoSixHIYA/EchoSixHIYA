@@ -50,7 +50,17 @@
 
 <p align="center">
   <a href="https://github.com/EchoSixHIYA/WebSpeak-client-for-TeamSpeak">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&repo=WebSpeak-client-for-TeamSpeak&theme=tokyonight&hide_border=true" alt="WebSpeak project card">
+    <img src="./assets/webspeak-banner.png" alt="WebSpeak banner" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/EchoSixHIYA/WebSpeak-client-for-TeamSpeak">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=tokyonight&amp;hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true" alt="WebSpeak project card">
+    </picture>
   </a>
 </p>
 
@@ -68,12 +78,24 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=EchoSixHIYA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EchoSixHIYA&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=EchoSixHIYA&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=EchoSixHIYA&amp;show_icons=true&amp;theme=default&amp;hide_border=true">
+    <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=EchoSixHIYA&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EchoSixHIYA&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EchoSixHIYA&amp;layout=compact&amp;theme=default&amp;hide_border=true">
+    <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EchoSixHIYA&amp;layout=compact&amp;theme=default&amp;hide_border=true" alt="Top languages">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EchoSixHIYA&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=EchoSixHIYA&amp;theme=tokyonight&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=EchoSixHIYA&amp;theme=default&amp;hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=EchoSixHIYA&amp;theme=default&amp;hide_border=true" alt="GitHub streak">
+  </picture>
 </p>
 
 <p align="center">
