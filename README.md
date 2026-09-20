@@ -58,13 +58,24 @@
   <em><strong>WebSpeak:</strong> A self-hosted browser client and voice gateway for TeamSpeak 3 and TeamSpeak 6.</em>
 </div>
 
-<h2>🧪 Research / 研究</h2>
+<h3>🧪 SCI Research / SCI 研究</h3>
 
-<p>医学图像方向的 SCI 一作研究项目。</p>
+<div>
+  医学图像方向 SCI 研究成果，均为第一作者：一区 1 项、四区 1 项。<br>
+  <em>First-author SCI research in medical imaging: one Zone 1 and one Zone 4 study.</em>
+</div>
 
 <ul>
-  <li><a href="https://github.com/EchoSixHIYA/CAFNet"><strong>CAFNet</strong></a> — Circular Attention for Medical Image Segmentation</li>
-  <li><a href="https://github.com/EchoSixHIYA/CMambaFuse"><strong>CMambaFuse</strong></a> — medical imaging research project</li>
+  <li>
+    <a href="https://github.com/EchoSixHIYA/CAFNet"><strong>CAFNet</strong></a> — Circular Attention for Medical Image Segmentation<br>
+    第一作者 · SCI 一区<br>
+    <em>First author · SCI Zone 1</em>
+  </li>
+  <li>
+    <a href="https://github.com/EchoSixHIYA/CMambaFuse"><strong>CMambaFuse</strong></a> — Medical image fusion research<br>
+    第一作者 · SCI 四区<br>
+    <em>First author · SCI Zone 4</em>
+  </li>
 </ul>
 
 <h2 align="center">📊 GitHub Activity</h2>
