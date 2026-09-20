@@ -35,15 +35,15 @@
 </div>
 <br clear="left">
 
-<h2>🚀 Featured Project / 代表项目</h2>
+<h3>🚀 Featured Project / 代表项目</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/EchoSixHIYA/WebSpeak-client-for-TeamSpeak">
     <img src="./assets/webspeak-banner.png" alt="WebSpeak banner" width="100%">
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/EchoSixHIYA/WebSpeak-client-for-TeamSpeak">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=tokyonight&amp;hide_border=true">
@@ -51,9 +51,12 @@
       <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true" alt="WebSpeak project card">
     </picture>
   </a>
-</p>
+</div>
 
-<p><strong>WebSpeak</strong> — a self-hosted TeamSpeak web client and browser gateway.</p>
+<div>
+  <strong>WebSpeak：</strong>一个可自行部署的 TeamSpeak 3 / TeamSpeak 6 网页客户端与语音网关。<br>
+  <em><strong>WebSpeak:</strong> A self-hosted browser client and voice gateway for TeamSpeak 3 and TeamSpeak 6.</em>
+</div>
 
 <h2>🧪 Research / 研究</h2>
 
