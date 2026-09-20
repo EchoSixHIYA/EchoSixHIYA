@@ -68,6 +68,16 @@
   <em>The details of this project will be revealed in the future...</em>
 </div>
 
+<div align="center">
+  <img src="./assets/stillalive-banner.png" alt="StillAlive banner" width="100%">
+</div>
+
+<div>
+  <strong>StillAlive</strong><br>
+  这个项目的细节将在未来揭晓...<br>
+  <em>The details of this project will be revealed in the future...</em>
+</div>
+
 <hr>
 
 <h3>🧪 SCI Research / SCI 研究</h3>
