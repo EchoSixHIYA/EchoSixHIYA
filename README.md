@@ -2,22 +2,18 @@
   <img src="./assets/banner.png" alt="ILLUSIA banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="./assets/avatar.jpg" alt="ILLUSIA avatar" width="180">
-</p>
-
-<h1 align="center">ILLUSIA · 希亚</h1>
-
-<p align="center">
-  <em>不执一相，不失此我。 · Change without ceasing to be yourself.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/EchoSixHIYA?tab=followers">
-    <img src="https://img.shields.io/github/followers/EchoSixHIYA?label=Followers&style=flat-square&color=67e8f9&labelColor=334155" alt="Followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=EchoSixHIYA&label=Profile%20views&color=06b6d4&style=flat-square" alt="Profile views">
-</p>
+<div align="center">
+  <img src="./assets/avatar.jpg" alt="ILLUSIA avatar" width="180" align="left">
+  <h1>ILLUSIA · 希亚</h1>
+  <p><em>不执一相，不失此我。 · Change without ceasing to be yourself.</em></p>
+  <p>
+    <a href="https://github.com/EchoSixHIYA?tab=followers">
+      <img src="https://img.shields.io/github/followers/EchoSixHIYA?label=FOLLOWERS&style=for-the-badge&color=06b6d4&labelColor=334155" alt="Followers">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=EchoSixHIYA&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views">
+  </p>
+</div>
+<br clear="left">
 
 <h2>关于我 <em>· About Me</em></h2>
 
