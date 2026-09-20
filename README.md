@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img src="./assets/character.png" alt="ILLUSIA character" width="280" align="left">
+  <img src="./assets/character.png" alt="ILLUSIA character" width="30%" align="left">
 
   <h3>关于我 <em>· About Me</em></h3>
 
