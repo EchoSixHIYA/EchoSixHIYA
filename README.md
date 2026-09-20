@@ -58,6 +58,16 @@
   <em><strong>WebSpeak:</strong> A self-hosted browser client and voice gateway for TeamSpeak 3 and TeamSpeak 6.</em>
 </div>
 
+<div align="center">
+  <img src="./assets/spearmint-banner.png" alt="SpearmintGameServerPanel banner" width="100%">
+</div>
+
+<div>
+  <strong>SpearmintGameServerPanel</strong><br>
+  这个项目的细节将在未来揭晓...<br>
+  <em>The details of this project will be revealed in the future...</em>
+</div>
+
 <hr>
 
 <h3>🧪 SCI Research / SCI 研究</h3>
