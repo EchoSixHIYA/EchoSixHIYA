@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="ILLUSIA banner" width="100%">
-</p>
-
 <div align="center">
   <img src="./assets/avatar.jpg" alt="ILLUSIA avatar" width="180" align="left">
   <h3>ILLUSIA · 希亚</h3>
@@ -95,4 +91,8 @@
 
 <p align="center">
   <em>Thanks for stopping by. Stay curious, keep building.</em>
+</p>
+
+<p align="center">
+  <img src="./assets/banner.png" alt="ILLUSIA banner" width="85%">
 </p>
