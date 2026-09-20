@@ -20,31 +20,25 @@
 
 <h2>关于我 <em>· About Me</em></h2>
 
-<p>
+<div>
   独立开发者、社畜、游戏玩家。<br>
-  <em>Indie developer, corporate worker, and gamer.</em>
-</p>
-
-<p>
+  <em>Indie developer, corporate worker, and gamer.</em><br><br>
   正在从传统开发逐渐转型为 <strong>Vibe Coding</strong>，喜欢把想法快速变成可以运行的东西。<br>
-  <em>Currently moving toward <strong>Vibe Coding</strong> — turning ideas into working software as quickly as possible.</em>
-</p>
-
-<p>
+  <em>Currently moving toward <strong>Vibe Coding</strong> — turning ideas into working software as quickly as possible.</em><br><br>
   <strong>我在做什么：</strong>构建实用、有趣、带一点个人风格的软件；探索 Python、Java 和 PyTorch；在工作、代码、游戏和睡眠之间寻找平衡。<br>
   <em><strong>What I do:</strong> build useful, playful, and slightly personal software; explore Python, Java, and PyTorch; try to balance work, code, games, and sleep.</em>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Vibe%20Coding-7C3AED?style=flat-square&logo=githubcopilot&logoColor=white" alt="Vibe Coding">
-</p>
+</div>
 
-<p align="center">
-  <img src="./assets/character.png" alt="ILLUSIA character" width="360">
-</p>
+<div align="center">
+  <img src="./assets/character.png" alt="ILLUSIA character" width="300">
+</div>
 
 <h2>🚀 Featured Project / 代表项目</h2>
 
