@@ -5,7 +5,10 @@
 <div align="center">
   <img src="./assets/avatar.jpg" alt="ILLUSIA avatar" width="180" align="left">
   <h3>ILLUSIA · 希亚</h3>
-  <p><em>不执一相，不失此我。 · Change without ceasing to be yourself.</em></p>
+  <p>
+    <em>不执一相，不失此我。</em><br>
+    <em>Change without ceasing to be yourself.</em>
+  </p>
   <p>
     <a href="https://github.com/EchoSixHIYA?tab=followers">
       <img src="https://img.shields.io/github/followers/EchoSixHIYA?label=FOLLOWERS&style=for-the-badge&color=06b6d4&labelColor=334155" alt="Followers">
