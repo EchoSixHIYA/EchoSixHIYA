@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/EchoSixHIYA/WebSpeak-client-for-TeamSpeak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EchoSixHIYA&repo=WebSpeak-client-for-TeamSpeak&theme=tokyonight&hide_border=true" alt="WebSpeak project card">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&repo=WebSpeak-client-for-TeamSpeak&theme=tokyonight&hide_border=true" alt="WebSpeak project card">
   </a>
 </p>
 
@@ -79,8 +79,8 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EchoSixHIYA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoSixHIYA&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=EchoSixHIYA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EchoSixHIYA&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 <p align="center">
