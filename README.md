@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="./assets/avatar.jpg" alt="ILLUSIA avatar" width="180" align="left">
-  <h1>ILLUSIA · 希亚</h1>
+  <h3>ILLUSIA · 希亚</h3>
   <p><em>不执一相，不失此我。 · Change without ceasing to be yourself.</em></p>
   <p>
     <a href="https://github.com/EchoSixHIYA?tab=followers">
