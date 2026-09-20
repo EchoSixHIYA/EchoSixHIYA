@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/avatar.jpg" alt="ILLUSIA avatar" width="180" align="left">
   <h3>ILLUSIA · 希亚</h3>
   <p>
     <em>不执一相，不失此我。</em><br>
@@ -12,7 +11,6 @@
     <img src="https://komarev.com/ghpvc/?username=EchoSixHIYA&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" alt="Profile views">
   </p>
 </div>
-<br clear="left">
 
 <div>
   <img src="./assets/character.png" alt="ILLUSIA character" width="280" align="left">
