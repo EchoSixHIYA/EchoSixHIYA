@@ -46,9 +46,9 @@
 <div align="center">
   <a href="https://github.com/EchoSixHIYA/WebSpeak-client-for-TeamSpeak">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=tokyonight&amp;hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true" alt="WebSpeak project card">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20260922">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20260922">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20260922" alt="WebSpeak project card">
     </picture>
   </a>
 </div>
