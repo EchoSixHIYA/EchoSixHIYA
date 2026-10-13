@@ -128,5 +128,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/illusia-starfiled.png" alt="ILLUSIA banner" width="85%">
+  <img src="./assets/illusia-starfield.png" alt="ILLUSIA banner" width="85%">
 </p>
