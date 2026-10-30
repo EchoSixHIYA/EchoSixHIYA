@@ -59,6 +59,17 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/Huddle-Up-Forge/song-of-theseus">
+    <img src="https://raw.githubusercontent.com/Huddle-Up-Forge/song-of-theseus/main/docs/assets/song-of-theseus-banner.jpg" alt="Song of Theseus banner" width="100%">
+  </a>
+</div>
+
+<div>
+  <strong><a href="https://github.com/Huddle-Up-Forge/song-of-theseus">Song of Theseus</a>：</strong>一个本地运行的歌声与歌词编辑工作台，可以逐句改词并用原曲或 MIDI 旋律引导重唱。<br>
+  <em><strong>Song of Theseus:</strong> A local-first singing and lyric editing workstation for line-by-line lyric rewriting with audio or MIDI melody guidance.</em>
+</div>
+
+<div align="center">
   <img src="./assets/spearmint-banner.png" alt="SpearmintGameServerPanel banner" width="100%">
 </div>
 
