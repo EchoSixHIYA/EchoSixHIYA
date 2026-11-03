@@ -46,9 +46,9 @@
 <div align="center">
   <a href="https://github.com/EchoSixHIYA/WebSpeak-client-for-TeamSpeak">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20260922">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20260922">
-      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20260922" alt="WebSpeak project card">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261103">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261103">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=WebSpeak-client-for-TeamSpeak&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261103" alt="WebSpeak project card">
     </picture>
   </a>
 </div>
@@ -64,8 +64,18 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Huddle-Up-Forge/song-of-theseus">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Huddle-Up-Forge&amp;repo=song-of-theseus&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261103">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=Huddle-Up-Forge&amp;repo=song-of-theseus&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261103">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Huddle-Up-Forge&amp;repo=song-of-theseus&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261103" alt="Song of Theseus project card">
+    </picture>
+  </a>
+</div>
+
 <div>
-  <strong><a href="https://github.com/Huddle-Up-Forge/song-of-theseus">Song of Theseus</a>：</strong>一个本地运行的歌声与歌词编辑工作台，可以逐句改词并用原曲或 MIDI 旋律引导重唱。<br>
+  <strong>Song of Theseus：</strong>一个本地运行的歌声与歌词编辑工作台，可以逐句改词并用原曲或 MIDI 旋律引导重唱。<br>
   <em><strong>Song of Theseus:</strong> A local-first singing and lyric editing workstation for line-by-line lyric rewriting with audio or MIDI melody guidance.</em>
 </div>
 
@@ -88,6 +98,19 @@
   这个项目的细节将在未来揭晓...<br>
   <em>The details of this project will be revealed in the future...</em>
 </div>
+
+<h3>💬 交流群 · Community</h3>
+
+<p>
+  欢迎加入 ILLUSIA 的 QQ 交流群：<a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;k=yhumUMDD9PmyYFWdXWUb_x7hM5trFQY8&amp;authKey=Pw3HBGT7GwMinTQnuFGfnpf0aRSzXOJKcAiujVP1%2BXMpjheAKrncTRivicBJxpjV&amp;noverify=0&amp;group_code=869500475"><strong>869500475</strong></a><br>
+  <em>Join the ILLUSIA QQ community: <strong>869500475</strong></em>
+</p>
+
+<p align="center">
+  <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&amp;k=yhumUMDD9PmyYFWdXWUb_x7hM5trFQY8&amp;authKey=Pw3HBGT7GwMinTQnuFGfnpf0aRSzXOJKcAiujVP1%2BXMpjheAKrncTRivicBJxpjV&amp;noverify=0&amp;group_code=869500475">
+    <img src="./assets/qq-group-qr.png" alt="QQ group 869500475" width="220">
+  </a>
+</p>
 
 <hr>
 
