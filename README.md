@@ -80,11 +80,28 @@
 </div>
 
 <div align="center">
-  <img src="./assets/spearmint-banner.png" alt="SpearmintGameServerPanel banner" width="100%">
+  <a href="https://github.com/EchoSixHIYA/Spearmint-Panel">
+    <img src="./assets/spearmint-banner.png" alt="Spearmint-Panel banner" width="100%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/EchoSixHIYA/Spearmint-Panel">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=Spearmint-Panel&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261118">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=Spearmint-Panel&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261118">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=Spearmint-Panel&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261118" alt="Spearmint-Panel project card">
+    </picture>
+  </a>
 </div>
 
 <div>
-  <strong>SpearmintGameServerPanel</strong><br>
+  <strong>Spearmint-Panel：</strong>去中心化的分布式集群管理面板，所有节点平权。<br>
+  <em><strong>Spearmint-Panel:</strong> A decentralized distributed cluster management panel where all nodes are equal.</em>
+</div>
+
+<div>
+  <strong>SpearmintPanelGamer</strong><br>
   这个项目的细节将在未来揭晓...<br>
   <em>The details of this project will be revealed in the future...</em>
 </div>
