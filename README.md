@@ -80,6 +80,27 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/EchoSixHIYA/edgeforge-model-converter">
+    <img src="./assets/edgeforge-banner.png" alt="EdgeForge banner" width="100%">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/EchoSixHIYA/edgeforge-model-converter">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=edgeforge-model-converter&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261119">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=edgeforge-model-converter&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261119">
+      <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=EchoSixHIYA&amp;repo=edgeforge-model-converter&amp;theme=default&amp;hide_border=true&amp;cache_seconds=1800&amp;v=20261119" alt="EdgeForge project card">
+    </picture>
+  </a>
+</div>
+
+<div>
+  <strong>EdgeForge：</strong>面向 Rockchip RKNN 与 Sophon BModel 的模型转换工作台，从训练权重到边缘部署，并交付配套 SDK。<br>
+  <em><strong>EdgeForge:</strong> A model conversion workbench for Rockchip RKNN and Sophon BModel, taking models from trained weights to edge deployment with a companion SDK.</em>
+</div>
+
+<div align="center">
   <a href="https://github.com/EchoSixHIYA/Spearmint-Panel">
     <img src="./assets/spearmint-banner.png" alt="Spearmint-Panel banner" width="100%">
   </a>
